@@ -1,0 +1,1 @@
+print(f"Emmar Caber once said, \"Strive for excellence and success will follow.\"")
