@@ -4,7 +4,7 @@ import name_formatter
 # print(f"Name: {full_name}")
 
 
-# from module_name import function_name
+# from module_name import function_name_0, function_name_1
 # from name_formatter import get_formatted_name
 # full_name = get_formatted_name("emmar", "caber")
 # print(f"Name: {full_name}")
