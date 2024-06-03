@@ -1,0 +1,7 @@
+In Python, you can create variables.
+In Python, you can create lists.
+In Python, you can learn working with lists.
+In Python, you can create dictionaries.
+In Python, you can learn user input and while loops.
+In Python, you can create functions.
+In Python, you can create classes.
